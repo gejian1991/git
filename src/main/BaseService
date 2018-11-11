@@ -1,2 +1,2 @@
-public query();
+public query("1234");
 public find();
